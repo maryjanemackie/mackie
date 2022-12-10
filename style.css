@@ -1,0 +1,18 @@
+.main-header{
+    background: url(BLACKPINKFW.jpg); 
+  min-height: 600px;
+  background-size: cover;
+  background-position: center;
+  color: burlywood;
+  }
+
+  .main-header.showcase{
+    padding-top: 200px;
+  }
+
+  .section{
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+  }
+  
+  
